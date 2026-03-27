@@ -1,0 +1,7 @@
+{
+  "prompt": "A lone human figure, seen from behind, stands on vast white salt flats at dawn. The sky occupies eighty-five percent of the frame — layered in deep luminous amber, burnt gold, and translucent copper, rendered with extraordinary atmospheric depth as if the air itself has visible mass and weight pressing gently downward. The sky is not stormy or dramatic — it is still, ancient, and immense, like a physical presence. The salt flats below are perfectly flat and reflective, mirroring the amber sky so the figure floats between two infinities. The human figure is tiny but not dwarfed by violence — dwarfed by scale alone. Golden hour light. Cinematic, photorealistic, wide aspect ratio, shot on large format film. No text, no labels, no charts, no graphs, no diagrams, no standard visualization elements.",
+  "model": "DALL-E 3",
+  "dataset_name": "NOAA Mauna Loa CO2 Record (The Keeling Curve)",
+  "dataset_url": "https://gml.noaa.gov/ccgg/trends/",
+  "insight": "Atmospheric CO2 has exceeded 420ppm — the highest concentration in 800,000 years of ice core records — making the invisible weight of accumulated carbon the defining physical fact of our era."
+}
