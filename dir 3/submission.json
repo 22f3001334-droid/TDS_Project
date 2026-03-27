@@ -1,0 +1,6 @@
+{
+  "prompt": "A dimly lit tailor's workshop, photorealistic. In the foreground, a single mannequin wears an elaborate suit covered in hundreds of tailor's pins, chalk marks, and custom darts — every seam follows the exact contours of this one specific form, including a slightly raised left shoulder and an unusual torso angle. The fit is obsessively precise on this mannequin alone. In the background, three other mannequins of slightly different proportions wear the same suit pattern — each one fits catastrophically badly, pulling across the chest, gaping at the waist, hanging wrong at the shoulders. Moody cinematic lighting, shallow depth of field, fabric textures in sharp focus. No text, no labels, no diagrams, no floating elements. Photographic realism, wide format.",
+  "model": "DALL-E 3",
+  "concept": "Overfitting",
+  "metaphor": "A suit pinned to obsessive precision on one mannequin fits perfectly; the same suit collapses on all others. Memorized one instance, generalizes to none."
+}
