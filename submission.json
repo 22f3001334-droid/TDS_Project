@@ -1,0 +1,6 @@
+{
+  "prompt": "A single dimly lit human silhouette stands at the center of a vast, softly glowing crowd. Every figure surrounding it is brighter, warmer, and visibly connected to many others who are brighter still. The central figure reaches outward but its connections are few; each figure it touches is encircled by a dense luminous web of others. The crowd recedes infinitely, each layer more radiant and interconnected than the last. The atmosphere is melancholic and dreamlike, like a memory of belonging. No text, no numbers, no diagrams, no labels. Cinematic lighting, muted blues and golds, wide aspect ratio.",
+  "model": "DALL-E 3",
+  "paradox": "The Friendship Paradox",
+  "visual_logic": "Every silhouette is dimmer and less connected than the figures surrounding it — including those figures themselves. The viewer's eye always lands on the least-connected node, making structural isolation feel inevitable and universal, never individual."
+}
