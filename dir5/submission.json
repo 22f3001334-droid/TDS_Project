@@ -1,0 +1,6 @@
+{
+  "prompt": "A wide aerial-perspective photorealistic painting of a hillside divided into three distinct horizontal terraced crop fields, separated by low stone walls. In each individual terrace, the crops grow visibly and consistently taller from left to right — the gradient within each band is unmistakable, short on the left edge, tall on the right edge. However, the three terraces are stacked so that the topmost terrace (which runs along the left half of the image) contains the tallest crops overall, and the bottommost terrace (which runs along the right half) contains the shortest crops overall — making the global trend across the entire image run in the opposite direction: tall on the left, short on the right. Both trends must be simultaneously legible. Golden afternoon light, muted earthy tones, photorealistic texture, wide landscape format. No text, no labels, no numbers, no diagrams, no annotations.",
+  "model": "DALL-E 3",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Within each terrace, crops grow taller left to right. But the terraces are arranged so the global image trend reverses: taller on the left overall. Both contradictory trends are simultaneously visible in one physical scene."
+}
